@@ -431,7 +431,7 @@ li{
 }
 
 .progress {
-    background-color: #333; /* Dark background for progress bar */
+    background-color: #333; 
     border-radius: 25px;
     overflow: hidden;
     height: 10px;
@@ -440,12 +440,11 @@ li{
 
 .progress-bar {
     background: linear-gradient(267deg, #da7c25 0.36%, #b923e1 102.06%);
-    /* Linear gradient for the progress bar */
     height: 100%;
-    line-height: 20px; /* Center the text vertically */
+    line-height: 20px; 
     color: white;
     text-align: center;
-    transition: width 1s ease; /* Animation for the progress bar */
+    transition: width 1s ease; 
 }
 
 @media (max-width: 768px) {
@@ -480,10 +479,10 @@ li{
 .progress-bar {
     background-color: #4caf50;
     height: 100%;
-    line-height: 20px; /* Center the text vertically */
+    line-height: 20px; 
     color: white;
     text-align: center;
-    transition: width 1s ease; /* Animation for the progress bar */
+    transition: width 1s ease; 
 }
 
 @media (max-width: 768px) {
