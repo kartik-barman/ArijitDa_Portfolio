@@ -9,7 +9,7 @@
 
 ## ✨ Project Overview
 
-ArijitDa's Portfolio is a showcase website built with HTML, CSS, and jQuery to highlight [Arijit Mondol's](https://github.com/ArijitMondol) skills, projects, and achievements in **Machine Learning**, **Web Development**, and more! This portfolio is designed to be visually engaging and responsive.
+ArijitDa's Portfolio is a showcase website built with HTML, CSS, and jQuery to highlight [Arijit Mondol's](https://github.com/arijit258) skills, projects, and achievements in **Machine Learning**, **Python Developer**, and more! This portfolio is designed to be visually engaging and responsive.
 
 ---
 
