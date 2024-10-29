@@ -1,6 +1,6 @@
 # Welcome to ArijitDa's Portfolio 🎨
 
-![Portfolio Banner](https://your-image-url.com/banner.png) <!-- Replace with your own banner image -->
+![Portfolio Banner](https://github.com/kartik-barman/ArijitDa_Portfolio/blob/master/images/screenshots/kartik-barman.github.io_ArijitDa_Portfolio_%20(2).png) 
 
 [![GitHub stars](https://img.shields.io/github/stars/kartik-barman/ArijitDa_Portfolio?style=social)](https://github.com/kartik-barman/ArijitDa_Portfolio/stargazers)
 [![GitHub license](https://img.shields.io/github/license/kartik-barman/ArijitDa_Portfolio)](https://github.com/kartik-barman/ArijitDa_Portfolio/blob/main/LICENSE)
